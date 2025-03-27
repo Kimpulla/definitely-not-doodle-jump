@@ -1,6 +1,6 @@
 # Definitely-Not-Doodle-Jump ⚡☁️
 
-*A not fun jumping game featuring a Thor-like character leaping across clouds!*
+*A not-so fun jumping game featuring a Thor-like character leaping across clouds!*
 
 ## 🎮 Features
 
