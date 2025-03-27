@@ -27,9 +27,9 @@ Run the game using:
 node main.js
 ```
 
-## 🔧 Controls (Planned)
+## 🔧 Controls
 
-- ⬅️➡️ Move left and right  
+- ⬅️➡️ Move left and right (Also works with A and D)
 - 🎵 Toggle music on/off  
 
 ## 📜 License
