@@ -1,4 +1,4 @@
-const { app, BrowserWindow } = require('electron');
+const { app, BrowserWindow } = require("electron"); // I chose to use electron in this
 
 let win;
 
@@ -11,13 +11,13 @@ function createWindow() {
     },
   });
 
-  win.loadFile('index.html'); // Load your index.html
+  win.loadFile("index.html");
 }
 
 app.whenReady().then(createWindow);
 
-app.on('window-all-closed', () => {
-  if (process.platform !== 'darwin') {
+app.on("window-all-closed", () => {
+  if (process.platform !== "darwin") {
     app.quit();
   }
 });
